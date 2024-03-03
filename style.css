@@ -1,0 +1,306 @@
+* {
+    margin:0
+}
+
+body{
+    background-image: url(2017Animals___Cats_Little_kitten_of_ash_color_in_the_basket_113409_.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: white;
+}
+
+header {
+    display: line;
+    background: linear-gradient(90deg, rgba(118,173,110,1) 0%, rgba(167,228,159,1) 0%, rgba(233,235,232,1) 41%, rgba(238,238,238,1) 100%, rgba(255,255,255,1) 100%);
+    height: 200px;
+    width: auto;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    text-indent: 200px;
+    font-family: 'Source Code Pro';
+    text-indent: 200px;
+}
+
+.agaga:hover {
+    color: white;
+}
+
+.agaga {
+    text-decoration:none;
+    font-size: 25px;
+    color: black;
+    margin-top: 100px;
+}
+
+h5 {
+    font-size: 60px;
+    text-indent: 10px;
+}
+
+h6 {
+    font-size: 60px;
+    text-indent: 10px;
+}
+
+h3 {
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 60px;
+}
+
+.lo {
+    display: block;
+    padding: 5% 5%;
+    text-align: left;
+    color: green;
+    vertical-align: start;
+    font-size: 40px;
+    font-family: 'Source Code Pro';
+}
+
+.first {
+    display: block;
+    padding: 5% 5%;
+    text-align: end;
+    color: green;
+    font-size: 40px;
+    font-family: 'Source Code Pro';
+}
+
+.another {
+    display: block;
+    padding: 5% 5%;
+    text-align: start;
+    color: green;
+    font-size: 40px;
+    font-family: 'Source Code Pro';
+}
+
+.brrrskibididopdopdop {
+    display: block;
+    padding: 2% 5%;
+    text-align: end;
+    color: green;
+    font-size: 40px;
+    font-family: 'Source Code Pro';
+}
+
+.eda {
+    display: block;
+    padding: 2% 5%;
+    text-align: start;
+    color: green;
+    font-size: 40px;
+    font-family: 'Source Code Pro';
+}
+
+.sherst {
+    display: block;
+    font-size: 40px;
+    padding: 2% 5%;
+    font-family: 'Source Code Pro';
+    color: green;
+}
+
+.aga {
+    display: block;
+    font-size: 60px;
+    text-align: center;
+    color: green;
+    padding: 2% 5%;
+    font-family: 'Source Code Pro';
+}
+
+.ddd {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    color: green;
+    padding: 5% 5%;
+    font-family: 'Source Code Pro';
+}
+
+.h {
+    font-size: 40px;
+    text-align: start;
+    color: green;
+    font-family: 'Source Code Pro';
+}
+
+.ya {
+    display: block;
+    font-size: 40px;
+    text-align: start;
+    color: green;
+    padding: 5% 5%
+    font-family: 'Source Code Pro';
+}
+
+.ay {
+    display: block;
+    font-size: 40px;
+    text-align: end;
+    color: green;
+    padding: 5% 5%
+}
+
+.k {
+    display: inline-block;
+    width:300px;
+    height:300px;
+    font-size:40px;
+    font-family: 'Source Code Pro';
+    color: green;
+}
+
+.ssilka {
+    text-decoration: none;
+    color: black;
+    font-size:25px;
+    font-family: 'Source Code Pro';
+    text-indent: 25px;
+}
+
+.ssilka:hover {
+    color: red;
+}
+
+.podval {
+    display: line;
+    background-color: grey;
+    height: 200px;
+    width: auto;
+    font-size: 25px;
+    background: linear-gradient(90deg, rgba(118,173,110,1) 0%, rgba(255,255,255,1) 0%, rgba(167,228,159,1) 49%, rgba(255,255,255,1) 100%, rgba(238,238,238,1) 100%);
+    text-decoration: none;
+    text-indent: 200px;
+    font-family: 'Source Code Pro';
+    text-indent: 200px;
+}
+
+h8 {
+    font-size:25px;
+    text-align: center;
+}
+
+.butto {
+    text-decoration: none;
+    color:black;
+}
+
+.butto:hover {
+    color: white;
+}
+
+.grey {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:30vh;
+    max-height:60vh;
+    border-radius: 5px;
+}
+
+.dap {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:30vh;
+    max-height:60vh;
+    border-radius: 5px;
+    transform: translateX(825px);
+}
+
+.oal {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:30vh;
+    max-height:60vh;
+    border-radius: 5px;
+}
+
+h3 {
+    text-indent: 15px;
+}
+
+.dolal {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:500px;
+    max-width:800px;
+    min-height:30vh;
+    max-height:70vh;
+    border-radius: 5px;
+    transform: translateX(825px);
+}
+
+.popa {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:10vh;
+    max-height:60vh;
+    border-radius: 5px;  
+}
+
+.popad {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:10vh;
+    max-height:60vh;
+    border-radius: 5px;  
+}
+
+.popas {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:10vh;
+    max-height:60vh;
+    border-radius: 5px;  
+}
+
+.popaf {
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:Honeydew;
+    min-width:200px;
+    max-width:800px;
+    min-height:10vh;
+    max-height:60vh;
+    border-radius: 5px;  
+}
